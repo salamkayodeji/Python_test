@@ -1,8 +1,5 @@
 import unittest
-from utils import check_type, add_fish_to_aquarium
-
-import unittest
-
+from utils import check_type
 
 
 class TestTypeChecker(unittest.TestCase):
@@ -44,5 +41,7 @@ class TestTypeChecker(unittest.TestCase):
 
 
 
+if __name__=="__main__":
+    unittest.main()
 
 

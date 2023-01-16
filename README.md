@@ -17,4 +17,5 @@ python main.py --input=data_1 --output=output
 
 data_name must be stored in data directiory located in data directory and output will be stored in the schema directory 
 
-# Python_test
+# To run test in terminal run:
+python test.py 
