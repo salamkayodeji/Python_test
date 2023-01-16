@@ -11,8 +11,6 @@ Starting the project
 After activating the virtualenv do the following
 
 ```
-pip install -r requirements.txt
-
 to launch program run in terminal:
 
 python main.py --input=data_1 --output=output
